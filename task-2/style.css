@@ -1,0 +1,69 @@
+body {
+    background-color:lightgray;
+}
+.head {
+    text-align: center;
+    text-shadow:2px 2px red;
+    font-size: 50px;
+    padding:0px;
+    margin:0px;
+    background-color: white;
+}
+.img-1 {
+    padding-right: 20px;
+    margin:0 20px 20px 0;
+    padding-left: 80px;
+}
+.img-2 {
+    margin:0 20px 20px 0;
+    padding-left:80px;
+    padding-right: 20px;
+}
+.img-3 {
+    margin:0 20px 20px 0;
+    padding-left:80px;
+    padding-right:20px;
+}
+.img-4 {
+    margin:0 20px 20px 0;
+    padding-left:80px;
+    padding-right:20px;
+    padding-top: 20px;
+}
+.img-5 {
+    margin:0 20px 20px 0;
+    padding-left:80px;
+    padding-right:50px;
+    padding-top: 20px;
+}
+.img-6 {
+    margin:0 20px 20px 0;
+    padding-left:60px;
+    padding-right:20px;
+    padding-right: 50px;
+}
+.img-1:hover {
+    border:  1px solid white;
+    background-color:whitesmoke;
+    border-block-end-style: solid;
+}
+.img-2:hover {
+    border: 1px solid white;
+    background-color:whitesmoke;
+}
+.img-3:hover {
+    border:1px solid white;
+    background-color:whitesmoke;
+}
+.img-4:hover {
+    border:1px solid white;
+    background-color:whitesmoke;
+}
+.img-5:hover {
+    border:1px solid white;
+    background-color:whitesmoke;
+}
+.img-6:hover {
+    border:1px solid white;
+    background-color:whitesmoke;
+}

@@ -1,0 +1,82 @@
+.style {
+    padding:20px;
+    margin:20px;
+    background-color:white;
+}
+.my-style-1 {
+    color:white;
+    width:15%;
+    height:50px;
+    background-color: red;
+    padding:5px;
+    margin:5px;
+}
+.my-style-2 {
+    color:blue;
+    border:2px solid blue;
+    width:7%;
+    height:50px;
+    background-color:yellow;
+    padding:5px;
+    margin:5px;
+}
+.my-style-3 {
+color:white;
+background-color:#66d1c4;
+width:10%;
+border-radius:30%;
+height:40px;
+border-color:transparent;
+padding:5px;
+margin:5px;
+}
+.my-style-4 {
+color:purple;
+border-color:purple;
+border-radius:10%;
+height:50px;
+width:10%;
+background-color:white;
+padding:5px;
+margin:5px;
+}
+.my-style-5 {
+color:white;
+border-color:transparent;
+width:13%;
+height:50px;
+border-radius:1%;
+background-color:#f7c53b;
+}
+.my-style-6 {
+border-color:#067fd4;
+width: 5%;
+height:40px;
+border-radius:100%;
+padding:5px;
+margin:5px;
+color:#067fd4;
+background-color: white;
+}
+.my-style-1:hover {
+    background-color: #ec4d50;
+}
+.my-style-2:hover {
+    background-color: blue;
+    color:yellow;
+}
+.my-style-3:hover {
+    background-color: #0be5ec;
+    color:white;
+}
+.my-style-4:hover {
+    background-color: purple;
+    color:white;
+}
+.my-style-5:hover {
+    background-color: #f38e31;
+}
+.my-style-6:hover {
+background-color: #338ed2;
+color:white;
+}
